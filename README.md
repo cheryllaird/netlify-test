@@ -1,6 +1,6 @@
 Simple setup of a small app with Netlify integration.
 
-App preview: https://pensive-shockley-b9ada8.netlify.app/
+App preview: https://netlifytest-cheryllaird.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
