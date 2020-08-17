@@ -8,10 +8,10 @@ function App() {
         <header>
             <span class="brand-logo">Business Name</span>
             <nav>
-                <a href="">Food</a>
-                <a href="">Beers</a>
-                <a href="">Events</a>
-                <a href="">Contact</a>
+                <a href="#">Food</a>
+                <a href="#">Beers</a>
+                <a href="#">Events</a>
+                <a href="#">Contact</a>
             </nav>
         </header>
 
@@ -42,10 +42,10 @@ function App() {
 
         <footer>
             <nav>
-                <a href="">Food</a>
-                <a href="">Beers</a>
-                <a href="">Events</a>
-                <a href="">Contact</a>
+                <a href="#">Food</a>
+                <a href="#">Beers</a>
+                <a href="#">Events</a>
+                <a href="#">Contact</a>
             </nav>
         </footer>
       </>
